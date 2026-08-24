@@ -36,6 +36,14 @@ I build tools that make creative work faster, smarter, and less repetitive.
 | [ai-agent-instruction-generator](https://github.com/lunkerchen/ai-agent-instruction-generator) | Transform fuzzy requirements into executable AI agent task instructions |
 | [software-factory-skill](https://github.com/lunkerchen/software-factory-skill) | 7-agent factory pipeline — from feature request to deployed code |
 
+### 🌐 Labangram Agent Services
+
+| Project | Description |
+|---------|-------------|
+| [labangram-agent](https://github.com/lunkerchen/labangram-agent) | Public agent rules, plugin metadata, and MCP Registry metadata for Labangram services |
+| [Labangram agent skill](https://github.com/lunkerchen/skills/tree/main/skills/labangram-agent) | Portable skill for discovering Labangram portfolio, services, pricing, and inquiry tools |
+| [Labangram MCP Registry listing](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.lunkerchen%2Flabangram) | Official MCP Registry entry for the product and documentation endpoints |
+
 ### 📊 Data & Trading
 
 | Project | Description |
