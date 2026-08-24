@@ -38,6 +38,8 @@ I build tools that make creative work faster, smarter, and less repetitive.
 
 ### 🌐 Labangram Agent Services
 
+**Labangram Studio** — [labangram.kamera-ichi.com](https://labangram.kamera-ichi.com) — Taiwan photography, digital products, and agent-ready APIs.
+
 | Project | Description |
 |---------|-------------|
 | [labangram-agent](https://github.com/lunkerchen/labangram-agent) | Public agent rules, plugin metadata, and MCP Registry metadata for Labangram services |
