@@ -2,7 +2,7 @@
 
 I build open-source tools that turn AI agents, automation, and public data into practical products. My work spans agent infrastructure, image generation, Taiwan-focused information tools, and developer workflows.
 
-[Instagram @labangram](https://instagram.com/labangram) · [X @Labannnz](https://x.com/Labannnz) · [Taiwan](https://maps.google.com/?q=Taiwan)
+[Instagram @labangram](https://instagram.com/labangram) · [X @lunkertw](https://x.com/lunkertw) · [Taiwan](https://maps.google.com/?q=Taiwan)
 
 ## Selected projects
 
